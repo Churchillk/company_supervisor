@@ -1,2 +1,2 @@
 # company_supervisor
-project to keep track of employees and minimize maper work
+project to keep track of employees and minimize paper work
